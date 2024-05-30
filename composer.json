@@ -23,19 +23,18 @@
             "Greggilbert\\Recaptcha\\": "src/"
         }
     },
+   
     "extra": {
         "laravel": {
             "providers": [
                 "Greggilbert\\Recaptcha\\ecaptchaServiceProvider"
             ],
-	"aliases": {
-                "Recaptcha": "Greggilbert\\Recaptcha\\Facades\\Recaptcha"
+            "aliases": {
+                 "Recaptcha": "Greggilbert\\Recaptcha\\Facades\\Recaptcha"
             }
-		
-        "branch-alias": {
-            "dev-master": "2.3.0"
         }
     },
+    
     "minimum-stability": "dev",
     "config": {
         "allow-plugins": {
