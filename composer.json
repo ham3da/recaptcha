@@ -28,6 +28,10 @@
             "providers": [
                 "Greggilbert\\Recaptcha\\ecaptchaServiceProvider"
             ],
+	"aliases": {
+                "Recaptcha": "Greggilbert\\Recaptcha\\Facades\\Recaptcha"
+            }
+		
         "branch-alias": {
             "dev-master": "2.3.0"
         }
