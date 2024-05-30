@@ -24,6 +24,10 @@
         }
     },
     "extra": {
+        "laravel": {
+            "providers": [
+                "Greggilbert\\Recaptcha\\ecaptchaServiceProvider"
+            ],
         "branch-alias": {
             "dev-master": "2.3.0"
         }
