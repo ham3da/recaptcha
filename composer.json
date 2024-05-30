@@ -2,7 +2,7 @@
     "name": "ham3da/recaptcha",
     "description": "reCAPTCHA Validator for Laravel 5",
 	"keywords": ["recaptcha", "captcha", "laravel", "laravel5"],
-	"homepage": "http://github.com/greggilbert/recaptcha",
+	"homepage": "https://github.com/ham3da/recaptcha",
 	"license": "MIT",
     "abandoned": true,
     "authors": [
