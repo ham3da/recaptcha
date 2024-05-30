@@ -1,5 +1,5 @@
 {
-    "name": "ham3da/recaptcha",
+    "name": "greggilbert/recaptcha",
     "description": "reCAPTCHA Validator for Laravel 5",
 	"keywords": ["recaptcha", "captcha", "laravel", "laravel5"],
 	"homepage": "https://github.com/ham3da/recaptcha",
