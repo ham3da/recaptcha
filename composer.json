@@ -24,17 +24,17 @@
             "src/migrations"
         ],
         "psr-4": {
-            "ham3da\\Recaptcha\\": "src/"
+            "Greggilbert\\Recaptcha\\": "src/"
         }
     },
    
     "extra": {
         "laravel": {
             "providers": [
-                "ham3da\\Recaptcha\\ecaptchaServiceProvider"
+                "Greggilbert\\Recaptcha\\ecaptchaServiceProvider"
             ],
             "aliases": {
-                 "Recaptcha": "ham3da\\Recaptcha\\Facades\\Recaptcha"
+                 "Recaptcha": "Greggilbert\\Recaptcha\\Facades\\Recaptcha"
             }
         }
     },
