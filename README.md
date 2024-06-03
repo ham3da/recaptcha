@@ -12,7 +12,7 @@ Add the following line to the `require` section of `composer.json`:
 ```json
 {
     "require": {
-        "ham3da/recaptcha": "dev-master"
+        "ham3da/recaptcha": "2.3.0"
     }
 }
 ```
