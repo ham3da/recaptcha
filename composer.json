@@ -1,5 +1,5 @@
 {
-    "name": "greggilbert/recaptcha",
+    "name": "ham3da/recaptcha",
     "description": "reCAPTCHA Validator for Laravel 5",
 	"keywords": ["recaptcha", "captcha", "laravel", "laravel5"],
 	"homepage": "https://github.com/ham3da/recaptcha",
@@ -20,17 +20,17 @@
             "src/migrations"
         ],
         "psr-4": {
-            "Greggilbert\\Recaptcha\\": "src/"
+            "ham3da\\Recaptcha\\": "src/"
         }
     },
    
     "extra": {
         "laravel": {
             "providers": [
-                "Greggilbert\\Recaptcha\\ecaptchaServiceProvider"
+                "ham3da\\Recaptcha\\ecaptchaServiceProvider"
             ],
             "aliases": {
-                 "Recaptcha": "Greggilbert\\Recaptcha\\Facades\\Recaptcha"
+                 "Recaptcha": "ham3da\\Recaptcha\\Facades\\Recaptcha"
             }
         }
     },
