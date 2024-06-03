@@ -31,7 +31,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Greggilbert\\Recaptcha\\ecaptchaServiceProvider"
+                "Greggilbert\\Recaptcha\\RecaptchaServiceProvider"
             ],
             "aliases": {
                  "Recaptcha": "Greggilbert\\Recaptcha\\Facades\\Recaptcha"
