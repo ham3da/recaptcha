@@ -1,6 +1,6 @@
 {
     "name": "ham3da/recaptcha",
-    "description": "reCAPTCHA Validator for Laravel 5",
+    "description": "reCAPTCHA Validator for Laravel 9",
 	"keywords": ["recaptcha", "captcha", "laravel", "laravel5"],
 	"homepage": "https://github.com/ham3da/recaptcha",
 	"license": "MIT",
