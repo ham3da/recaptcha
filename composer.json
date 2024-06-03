@@ -13,7 +13,7 @@
         {
             "name": "Javad Ehteshami",
             "email": "ham3da.j@gmsil.com"
-        },  
+        }
     ],
     "require": {
         "php": ">=5.3.0",
